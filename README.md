@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![Screenshot (79)](https://github.com/AmishaS31/amisha-s--portfolio/assets/138499105/90c35595-7ebe-48c2-b89a-f308c5fd2d69)
